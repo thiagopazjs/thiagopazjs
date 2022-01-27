@@ -9,7 +9,7 @@ Me chamo Thiago Paz
 - 🌱 Atualmente me especializando em Spring Boot.- 🌱
 - 🌱Tenho estudado desenvolvimento web, desde o back end ao front com as tecnologias Java, Spring,NodeJS,Postsgress, Mysql Angular,React, ReactNative,NextJS Html, CSS, .
 - 👯 Procuro sempre aprender com as outras pessoas e repassar o meu conhecimento, acredito que conhecimento deve ser compartilhado.
-- 🤔 Posso colaborar com conhecimento em desenvolvimento web 
+- 🤔 Posso colaborar com conhecimento em desenvolvimento web/mobile. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagopazjs&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopazjs&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
