@@ -28,10 +28,8 @@ Me chamo Thiago Paz
 <img align= "center" alt="Thiago_Types" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align= "center" alt="Thiago_Node" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align= "center" alt="Thiago_Html" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align= "center" alt="Thiago_Angular" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align= "center" alt="Thiago_React" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align= "center" alt="Thiago_Docker" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align= "center" alt="Thiago_Postgress" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align= "center" alt="Thiago_Kotlin" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
-
  </div> 
