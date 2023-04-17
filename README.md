@@ -6,7 +6,7 @@
 Me chamo Thiago Paz
 
 - 🔭 Hoje trabalho como desenvolvedor Full Stack.
-- 🌱 Atualmente me especializando em Node, React e React Native.- 🌱
+- 🌱 Atualmente me especializando em desenvolvimento mobile com Kotlin🌱
 - 🌱Tenho estudado desenvolvimento web, desde o back end ao front com as tecnologias Java, Spring,NodeJS,Postsgress, Mysql Angular,React, ReactNative,NextJS Html, CSS, .
 - 👯 Procuro sempre aprender com as outras pessoas e repassar o meu conhecimento, acredito que conhecimento deve ser compartilhado.
 - 🤔 Posso colaborar com conhecimento em desenvolvimento web/mobile. 
