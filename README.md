@@ -20,7 +20,7 @@ Me chamo Thiago Paz
   srcset="https://github-readme-stats.vercel.app/api?username=thiagopazjs_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=thiagopazjs&show_icons=true" />
 </picture>
 <div style= "display: inline_block"><br>
 <img align= "center" alt="Thiago_Java" height="30" width="40"img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
